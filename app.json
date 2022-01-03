@@ -2,5 +2,15 @@
     "name": "Crypto Price Bot",
     "description": "A Chatbot for telegram to get price of cryptos from binance",
     "repository": "https://github.com/AdityaEXP/Crypto-Price-Bot",
-    "keywords": ["Crypto price bot", "binance api", "telegram crypto bot"]
+    "keywords": ["Crypto price bot", "binance api", "telegram crypto bot"],
+    "env" : {
+        "API_TOKEN" : {
+            "description": "Your telegram bot token you can get it from https://t.me/BotFather, Example : 5093659262:AAHoxxxxxxxxxxxxxxxx",
+            "required": true
+        },
+        "APP_NAME" : {
+            "description": "Your Heroku app name, Enter same value as the field above 'Choose A Region' Option",
+            "required": true
+        }
+    }
 }
