@@ -10,16 +10,21 @@
 
 - Get Your Self A Bot Token from [BotFather](https://t.me/BotFather)
 
-- 👇 Click On Below Button 
-
+- 👇 Click On Below Button & Deploy It
 
 <a href="https://heroku.com/deploy?template=https://github.com/AdityaEXP/Crypto-Price-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy" width=350>
 </a>
 <br><br>
-<h2 align='left'>Note After Clicking Deploy On Button Fill The Form Something Like This</h2>
+
+- After Deploying Sucessfully Check If Your Server Running Or Not By Visiting https://your_heroku_app_name.herokuapp.com, In My Case it Was https://my-app-name-of-heroku.herokuapp.com If it returns **Server Running!** Then Success.
+- Now Visit https://your_heroku_app_name.herokuapp.com/setWebhook To Setup Webhook, If It Returns **Webhook Done!** Then Hurray, Go To Your Bot & Type /start To Use it.
+<br><br>
+<h2 align='left'>Note : After Clicking "Deploy On Heroku" Button Fill The Form Something Like This</h2>
 <p align='center'><img src="https://telegra.ph/file/06d7a29e9b0e5ce6941ee.jpg" alt='demo' height=auto></p>
 
-<h1 align='center'><a href=https://t.me/lazycoderalways>Contact Me</a></h1>
-![68747470733a2f2f74656c656772612e70682f66696c652f3036643761323965396230653563653639343165652e6a7067](https://user-images.githubusercontent.com/87596501/147949749-c06cb74f-4eab-4c16-826d-39a53f84f7e0.jpg)![68747470733a2f2f74656c656772612e70682f66696c652f3036643761323965396230653563653639343165652e6a7067](https://user-images.githubusercontent.com/87596501/147949750-0ee66655-2c9d-4f10-8adb-ccc4785ff6da.jpg)
+
+<h2 align="left">React Me</h2>
+<a href="https://www.fiverr.com/lazyaditya?up_rollout=true" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiver Logo" height="70" width="70" /></a>
+<a href="https://t.me/lazycoderalways" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg" alt="Telegram Logo" height="100" width="100" /></a>
 
