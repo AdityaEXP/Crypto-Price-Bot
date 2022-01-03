@@ -9,7 +9,7 @@
             "required": true
         },
         "APP_NAME" : {
-            "description": "Your Heroku app name, Enter same value as the field above 'Choose A Region' Option",
+            "description": "Your Heroku app-name, Enter same value as the field above 'Choose A Region' Option",
             "required": true
         }
     }
