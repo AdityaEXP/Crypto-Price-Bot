@@ -6,7 +6,7 @@ from flask import Flask, request
 TOKEN = os.environ.get('API_TOKEN', None)
 APP_NAME = os.environ.get('APP_NAME', None)
 
-bot = TeleBot('5021683717:AAFyrc-1FS8oJimfDPmkaElitarDmPBNPCE')
+bot = TeleBot(TOKEN)
 server = Flask(__name__)
 client = Client()
 
