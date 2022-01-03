@@ -1,0 +1,6 @@
+{
+    "name": "Crypto Price Bot",
+    "description": "A Chatbot for telegram to get price of cryptos from binance",
+    "repository": "https://github.com/AdityaEXP/Crypto-Price-Bot",
+    "keywords": ["Crypto price bot", "binance api", "telegram crypto bot"]
+}
