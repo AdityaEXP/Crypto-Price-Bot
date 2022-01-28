@@ -24,7 +24,7 @@ def startPrivate(msg : types.Message):
 def getPrice(msg):
     symbol = msg.text.split('/p ')
     if len(symbol) == 1:
-        bot.send_message(msg.chat.id, '*Example : /price BTC*', parse_mode='markdown')
+        bot.send_message(msg.chat.id, '*Example : /p BTC*', parse_mode='markdown')
         return
     try:
         symbol_ = symbol[1].upper()
