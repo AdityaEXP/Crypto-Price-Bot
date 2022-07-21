@@ -24,7 +24,7 @@
 <p align='center'><img src="https://telegra.ph/file/06d7a29e9b0e5ce6941ee.jpg" alt='demo' height=auto></p>
 
 
-<h2 align="left">React Me</h2>
+<h2 align="left">Contact Me</h2>
 <a href="https://www.fiverr.com/lazyaditya?up_rollout=true" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiver Logo" height="70" width="70" /></a>
 <a href="https://t.me/lazycoderalways" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg" alt="Telegram Logo" height="100" width="100" /></a>
 
